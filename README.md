@@ -1,3 +1,3 @@
 # Griffin White
 
-[title](./Embracing the Drifting Mind for Better Visualizations.md)
+[Embracing the Drifting Mind for Better Visualizations](./Embracing the Drifting Mind for Better Visualizations.md)
